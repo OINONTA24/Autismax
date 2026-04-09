@@ -1,0 +1,8 @@
+
+/* Tailwind v4: importa el framework */
+@import "tailwindcss";
+
+/* Opcional: fuentes de contenido para el tree-shaking de clases */
+@source "../index.html";
+@source "../src/**/*.{js,ts,jsx,tsx}";
+@source "../src/app/**/*.{js,ts,jsx,tsx}";
