@@ -1,11 +1,9 @@
 
-  # Diseñar Página Principal Atractiva
+  #Creacion de página y portal para profesorado
 
-  This is a code bundle for Diseñar Página Principal Atractiva. The original project is available at https://www.figma.com/design/Fdu7MsDS6dWxUzBBu8JVeI/Dise%C3%B1ar-P%C3%A1gina-Principal-Atractiva.
+  ## Para correr el código se necesitan las siguientes dependencias:
 
-  ## Running the code
+  Run `npm i` para instalar las dependencias.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+  Run `npm run dev` para iniciar el servidor de desarrollo.
   
